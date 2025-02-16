@@ -47,7 +47,7 @@
 
 body {
     background: #000000;
-    color: white;
+    color: whitesmoke;
     font-size: 16px;
     font-family: 'Open Sans' , 'Merriweather' , sans-serif;
 
@@ -71,7 +71,7 @@ body {
     width: 100%;
     text-align: center;
     padding-top: 270px;
-    padding-bottom: 40px;
+    padding-bottom: 41px;
 }
 
 .heading {
